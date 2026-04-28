@@ -1,1 +1,1 @@
-# assignment-02
+# assignment-02 This repository contains my work for Assignment 2. I converted data types, applied the order of operation, manipulate strings, used arithmeic expressions such as adding and subtraction and solved a business problem.
