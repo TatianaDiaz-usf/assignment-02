@@ -1,2 +1,3 @@
-# assignment-02 This repository contains my work for Assignment 2. Files included- module02-assignment.py
+# assignment-02 This repository contains my work for Assignment 2. 
+Files included- module02-assignment.py
 I converted data types, applied the order of operation, manipulate strings, used arithmeic expressions such as adding and subtraction and solved a business problem.
